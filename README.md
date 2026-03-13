@@ -1,4 +1,4 @@
-# Patriot.github.io
+# PatriotDK.github.io
 Repository about current active projects
 
 # 👋 Hi, I'm Alexander Bork | Cybersecurity, IT Law & Compliance
